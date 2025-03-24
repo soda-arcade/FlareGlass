@@ -1,0 +1,3 @@
+[submodule "dependencies/wails"]
+	path = dependencies/wails
+	url = https://github.com/wailsapp/wails.git

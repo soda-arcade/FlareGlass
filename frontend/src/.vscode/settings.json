@@ -1,0 +1,26 @@
+{
+	"vetur.experimental.templateInterpolationService": true,
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"rust-analyzer.linkedProjects": [
+		".\\src-tauri\\Cargo.toml",
+		".\\src-tauri\\Cargo.toml",
+		".\\src-tauri\\Cargo.toml",
+		".\\src-tauri\\Cargo.toml"
+	],
+	"rust-analyzer.showUnlinkedFileNotification": false,
+	"files.exclude": {
+		".vscode": true,
+		"core-tauri": true,
+		"index.html": true,
+		"public": true
+	},
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "compressed",
+			"extensionName": ".css",
+			"savePath": "./styles/css",
+			"savePathReplacementPairs": null
+		}
+	],
+	"liveSassCompile.settings.forceBaseDirectory": "./styles/sass",
+}

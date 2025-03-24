@@ -1,0 +1,15 @@
+{
+	"fixed": {
+		"file_version": "10.0.3"
+	},
+	"info": {
+		"0000": {
+			"ProductVersion": "10.0.3",
+			"CompanyName": "FlareGlass Ltd",
+			"FileDescription": "FlareGlass",
+			"LegalCopyright": "© now, FlareGlass Ltd",
+			"ProductName": "FlareGlass",
+			"Comments": "https://soda-arcade.com"
+		}
+	}
+}

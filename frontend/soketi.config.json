@@ -1,0 +1,8 @@
+{
+  "appManager.array.apps.0.id": "app-id",
+  "appManager.array.apps.0.key": "app-key",
+  "appManager.array.apps.0.secret": "app-secret",
+  "appManager.array.apps.0.enableClientMessages": true,
+  "debug": true,
+  "port": 6001
+}

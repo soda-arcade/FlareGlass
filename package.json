@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+    },
+    "scripts": {
+        "setVersion": "node utils/updateVersion.js",
+        "setEnv": "node utils/copyEnv.js"
+    }
+}

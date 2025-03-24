@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        ".gitignore": true,
+        ".task": true,
+        ".vscode": true,
+        "bin": true,
+        "flare": true,
+        "icon.ico": true,
+        "node_modules": true,
+        "package-lock.json": true,
+        "package.json": true
+    }
+}
